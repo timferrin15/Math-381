@@ -8,6 +8,6 @@ Projects include:
 1) Linear Programs: The Art of the Steal
 2) Total Domination Problem: A Knight on the Rim is Dim, But a Knight on the Corner is Forlorner
 3) Map Coloring Problem: Graph-ic Design
-4) Markov Chains: It's a Numbers Game
-5) Multidimensional Scaling
-6) Monte Carlo: Cribbage Simulation
+5) Markov Chains: It's a Numbers Game
+7) Multidimensional Scaling
+8) Monte Carlo: Cribbage Simulation
